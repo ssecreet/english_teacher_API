@@ -3,15 +3,15 @@
 
 #### description
 
-- 
+- This app is made for learning english
 
 #### author
 
-- 
+- Biyaslan Mokaev
 
 #### service run instruction
 
-- 
+- run main.py file
 
 
 ## FAST API
